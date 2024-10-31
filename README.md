@@ -96,7 +96,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 _Students who already know basic programming in any language can skip this first course_
 
-[Introduction to programming](coursepages/intro-programming/README.md)
+[Introduction to programming](coursepages/intro-programming/README.md)  ✅
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
